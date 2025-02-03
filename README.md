@@ -27,9 +27,9 @@
 
 ## 🎯 About Me
 - 🎓 **BE-CSE (2022-2026)** | 6th Semester | Aspiring **Full-Stack Developer**
-- 💻 Focused on **Java, Spring Boot, React, SQL**
-- 📱 Experienced in **Android App Development** (PicPix, College App, Roadmap Generator)
-- 🚀 Preparing for **10+ LPA On-Campus Placement**
+- 💻 Focused on **Java, Spring Boot,SQL**
+- 📱 Experienced in **Android App Development** (PicPix, Saveetha Engineering College App, Endless Escape)
+- 🚀 Preparing for **On-Campus Placement**
 
 ## 💻 Tech Stack
 
